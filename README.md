@@ -1,4 +1,2 @@
-<h1> Hark! A tool doth appear, crafted by mine own hand, using QB64 as the forge.<br>
-SIDDHARTHA-LIBRARY, a tool of bureaucracy and order forged using the language of QB64 is a tool to manage the records of the books in the library, a labyrinth in itself."</h1?
-<hr>
-<h1> The files residing within the 'CODES' folder, must embark on a journey to their rightful place in the root directory of QB64.exe, to fulfill their purpose and function as intended.<br> This process, though seemingly simple, is fraught with bureaucracy and the potential for error.</h1>
+<h1> Behold! I've created SIDDHARTHA-LIBRARY with QB64. It manages book records and the library.</h1>
+<h1> Files in CODES folder must be moved to QB64.exe root directory for proper function. The process is prone to bureaucracy and error.</h1>
